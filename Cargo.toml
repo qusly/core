@@ -4,3 +4,7 @@ version = "0.0.1"
 edition = "2021"
 
 [dependencies]
+async-ssh2-lite = "0.2.1"
+async-io = "1.6.0"
+futures = "0.3"
+ssh2 = "0.9"
